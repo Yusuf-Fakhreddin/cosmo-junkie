@@ -1,0 +1,21 @@
+/* variables */
+
+/* reset */
+
+/* base styles */
+
+/* fonts */
+
+/* mobile styles (no media query) starting pt and going upwards */
+
+/* small tablets */
+@media screen and (min-width: 620px) {
+}
+
+/* large tablets and laptops */
+@media screen and (min-width: 960px) {
+}
+
+/* desktops */
+@media screen and (min-width: 1200px) {
+}
